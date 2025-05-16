@@ -1,0 +1,18 @@
+{
+  "currentMapPath" : "/maps/level1.map",
+  "gameStatus" : {
+    "currentRole" : "NONE",
+    "localPlayerId" : -1,
+    "score" : 0
+  },
+  "players" : [ {
+    "networkID" : 0,
+    "x" : 63.814613458720885,
+    "y" : 318.939681541279,
+    "health" : 100,
+    "isLocalPlayer" : true,
+    "lastDirection" : "RIGHT"
+  } ],
+  "enemies" : [ ],
+  "timeSinceLastSpawn" : 1.5427424999999997
+}
